@@ -31,8 +31,11 @@
 *.out
 *.app
 
+# MacOS
+.DS_Store
+
 # Netbeans
-nbproject/private/
+private/
 build/
 nbbuild/
 dist/
